@@ -1,0 +1,1 @@
+streamlit run "C:\Users\itspk\OneDrive\Desktop\Disease Prediction System\DiseasePrediction.py"
